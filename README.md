@@ -37,7 +37,7 @@ The Random Forest classifier achieved the following performance on the test set:
     - Non-malaria Infection
     - Severe Malaria
     - Uncomplicated Malaria
-- Confusion matrix image here []!https://github.com/VictorOkomayin/Files/blob/main/Confusion%20matrix.png
+- Confusion matrix image here: https://github.com/VictorOkomayin/Files/blob/main/Confusion%20matrix.png
 
 ## How to Run
 - Clone the repository:
@@ -56,9 +56,6 @@ jupyter notebook Machine_Learning_Language_Model_for_Malaria_Disease_Prediction.
 
 ## Contributing
 Contributions are welcome! Please fork the repo and submit a pull request.
-
-## License
-This project is licensed under the MIT License — see the LICENSE file for details.
 
 ## Acknowledgements
 - Dataset providers.
