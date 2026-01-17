@@ -37,7 +37,7 @@ The Random Forest classifier achieved the following performance on the test set:
     - Non-malaria Infection
     - Severe Malaria
     - Uncomplicated Malaria
-- (Insert confusion matrix image here if saved from plot_confusion_matrix.)
+- Confusion matrix image here []!https://github.com/VictorOkomayin/Files/blob/main/Confusion%20matrix.png
 
 ## How to Run
 - Clone the repository:
